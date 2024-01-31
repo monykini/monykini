@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monykini
-- I currently work as a Shopify Developer at Prism Fly ! 
+- I currently work as a Shopify Developer at Puffy ! 
 - I love everything about JavaScript and things that come with it .
 - 👀 I’m interested in all things related to development 
 - 🌱 I’m currently learning GANs and NLP modelling 
