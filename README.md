@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning GANs and NLP modelling 
 - 📫 How to reach me masoodmony111@gmail.com
 
+<a href="https://app.daily.dev/mony864"><img src="https://api.daily.dev/devcards/v2/7PKqkD36wHSkEWfBBTR7F.png?r=z2f" width="356" alt="Mohammad Masood's Dev Card"/></a>
 <!---
 monykini/monykini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
